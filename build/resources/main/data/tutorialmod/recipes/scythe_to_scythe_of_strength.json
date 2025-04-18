@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:scythe"
+  },
+  "addition": {
+    "item": "minecraft:golden_apple"
+  },
+  "result": {
+    "item": "tutorialmod:scythe_of_strength"
+  }
+}

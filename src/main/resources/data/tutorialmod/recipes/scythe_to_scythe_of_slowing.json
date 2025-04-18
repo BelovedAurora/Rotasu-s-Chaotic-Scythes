@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "tutorialmod:scythe"
+  },
+  "addition": {
+    "item": "minecraft:soul_sand"
+  },
+  "result": {
+    "item": "tutorialmod:scythe_of_slowing"
+  }
+}
